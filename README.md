@@ -1,1 +1,1 @@
-#  Codes which I practice for better understanding the Data Structure in  Java language , I belive it will help you too to understand and learn ans like allways i am allways open for suggestions. thanks for visiting 
+#  All the Codes  here are done with Eclipse IDE and all the questions if from  problem solving  , thanks for visiting and i shal keep on posting so feel free to post any  query or suggestions if any will reply ASAP 
